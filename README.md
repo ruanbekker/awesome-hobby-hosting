@@ -15,6 +15,8 @@ Repository on Free Hosting for your Hobby / Tinkering Projects
 
 ### Heroku: Free Tier on PaaS
 
+| Name | Description | Always Free? | Free Tier Info   | 
+| :------- | :---------: | :------: | ---------: |
 | [Heroku](https://www.heroku.com/free) | Managed Platform as a Service | :white_check_mark: | 5 Applications, Postgres, Redis |
 
 ## Software as a Service
@@ -56,3 +58,5 @@ AWS [Always Free](https://aws.amazon.com/free) are multiple services that AWS al
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
 | [AWS CloudWatch](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=CloudWatch&all-free-tier.q_operator=AND#Free_Tier_details)   | CloudWatch is a Monitoring, Metrics and Alarming Service | :white_check_mark: | 10 Custom Metrics and 10 Alarms |
+
+**[`^        back to top        ^`](#)**
