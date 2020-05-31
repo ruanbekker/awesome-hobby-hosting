@@ -34,8 +34,11 @@ Repository on Free Hosting for your Hobby / Tinkering Projects
 
 #### Messaging
 
+Amazon Web Services (AWS): 
+
 - [AWS SES](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SES&all-free-tier.q_operator=AND#Free_Tier_details): 62,000 Outbound Messages per Month :repeat::free: :ok_hand:
 - [AWS SNS](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SNS&all-free-tier.q_operator=AND#Free_Tier_details): 1 Million Publishes per Month :repeat::free: :ok_hand:
+- [SQS (Simple Queueing Service)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1&all-free-tier.q=SQS&all-free-tier.q_operator=AND#Free_Tier_details): 1 Million Requests per Month :repeat::free: :ok_hand:
 
 #### Monitoring
 
