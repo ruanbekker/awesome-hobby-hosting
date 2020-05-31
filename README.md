@@ -32,9 +32,10 @@ Repository on Free Hosting for your Hobby / Tinkering Projects
 
 - :fire: [AWS DynamoDB](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=DynamoDB&all-free-tier.q_operator=AND#Free_Tier_details): 25GB of Storage, 25 Read/Write Capacity Units :repeat::free:
 
-#### Email
+#### Messaging
 
-- :fire: [AWS SES](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SES&all-free-tier.q_operator=AND#Free_Tier_details): 62,000 Outbound Messages per month :repeat::free:
+- [AWS SES](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SES&all-free-tier.q_operator=AND#Free_Tier_details): 62,000 Outbound Messages per Month :repeat::free: :ok_hand:
+- [AWS SNS](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SNS&all-free-tier.q_operator=AND#Free_Tier_details): 1 Million Publishes per Month :repeat::free: :ok_hand:
 
 #### Monitoring
 
