@@ -27,7 +27,6 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 | Name | Description | Always Free? | Free Tier Info   | 
 | :------- | :---------: | :------: | ---------: |
-
 | [AWS - Storage (S3)](https://aws.amazon.com/s3/pricing/#AWS_free_usage_tier) | S3 is a Managed Storage Service | :x: | 5GB of Storage for 12 Months |
 
 AWS [Always Free](https://aws.amazon.com/free) are multiple services that AWS allows you to use for free forever, make sure to check the detailed info on more info.
