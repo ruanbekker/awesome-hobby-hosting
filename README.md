@@ -34,4 +34,8 @@ Repository on Free Hosting for your Hobby / Tinkering Projects
 
 #### Email
 
-- :fire: [AWS SES](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SES&all-free-tier.q_operator=AND#Free_Tier_details): 62,000 Outbound Messages per month to any recipient when you call Amazon SES from an Amazon EC2 instance directly :repeat::free:
+- :fire: [AWS SES](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=SES&all-free-tier.q_operator=AND#Free_Tier_details): 62,000 Outbound Messages per month :repeat::free:
+
+#### Monitoring
+
+- [AWS CloudWatch](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=CloudWatch&all-free-tier.q_operator=AND#Free_Tier_details) 10 Custom Metrics and 10 Alarms :repeat::free:
