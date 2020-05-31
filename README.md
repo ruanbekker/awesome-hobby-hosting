@@ -1,5 +1,6 @@
 # awesome-hobby-hosting
-Repository on Free Hosting for your Hobby / Tinkering Projects
+
+I wanted to compile a list of providers that provides free hosting, as I am always on the hunt for providers where I can host my tinkering / personal projects for free and also share the word for people looking for free hosting.
 
 - [Infrastructure as a Service](#infrastructure-as-a-service)
   - [AWS](#aws-free-tier-on-iaas)
