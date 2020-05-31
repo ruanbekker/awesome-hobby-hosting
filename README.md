@@ -26,7 +26,7 @@ Repository on Free Hosting for your Hobby / Tinkering Projects
 
 #### Compute
 
-- :fire: [AWS Lambda](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=Lambda&all-free-tier.q_operator=AND#Free_Tier_details): 1 Million Invocations per Month
+- :fire: [AWS Lambda](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=Lambda&all-free-tier.q_operator=AND#Free_Tier_details): 1 Million Invocations per Month :repeat: :free:
 
 #### Databases
 
