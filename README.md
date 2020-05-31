@@ -20,6 +20,8 @@ I wanted to compile a list of providers that **provides free hosting**, as I am 
 
 ### AWS: Free Tier on IaaS
 
+AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%2312monthsfree&awsm.page-all-free-tier=1) allows free usage on multiple service for 12 months, and the [Always Free](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1) tier allows free for ever usage on multiple services, be sure to check the detailed info on their free tiers.
+
 #### Compute
 
 | Name | Description | Always Free? | Free Tier Info   | 
@@ -42,13 +44,11 @@ I wanted to compile a list of providers that **provides free hosting**, as I am 
 
 ### AWS: Free Tier on SaaS
 
-AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%2312monthsfree&awsm.page-all-free-tier=1) allows free usage on multiple service for 12 months, and they offer [Always Free](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1) on multiple services, be sure to check the detailed info on their free tier.
+AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%2312monthsfree&awsm.page-all-free-tier=1) allows free usage on multiple service for 12 months, and the [Always Free](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1) tier allows free for ever usage on multiple services, be sure to check the detailed info on their free tiers.
 
 | Name | Description | Always Free? | Free Tier Info   | 
 | :------- | :---------: | :------: | ---------: |
 | [AWS - Storage (S3)](https://aws.amazon.com/s3/pricing/#AWS_free_usage_tier) | S3 is a Managed Storage Service | :x: | 5GB of Storage for 12 Months |
-
-AWS [Always Free](https://aws.amazon.com/free) are multiple services that AWS allows you to use for free forever, make sure to check the detailed info on more info.
 
 **[`^        back to top        ^`](#)**
 
