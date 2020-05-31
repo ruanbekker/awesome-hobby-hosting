@@ -56,7 +56,8 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
-| [AWS Lambda](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=Lambda&all-free-tier.q_operator=AND#Free_Tier_details) | Compute service that runs your code in response to events | :white_check_mark: | 1 Million Invocations per Month|
+| [AWS Lambda](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&all-free-tier.q=Lambda&all-free-tier.q_operator=AND#Free_Tier_details) | Compute service that runs your code in response to events | :white_check_mark: | 1 Million Invocations per Month |
+
 **[`^        back to top        ^`](#)**
 
 #### Databases
