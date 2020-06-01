@@ -5,16 +5,16 @@ Free Hosting for Tinkering / Personal Projects
 I wanted to compile a list of providers that **provides free hosting**, as I am always on the hunt for providers where I can host my tinkering / personal projects for free and also share the word for people looking for free hosting.
 
 - [Infrastructure as a Service](#infrastructure-as-a-service)
-  - [AWS](#aws-free-tier-on-iaas)
-    - [Compute](#compute)
+  - [Compute](#compute)
+- [Kubernetes as a Service](#kubernetes-as-a-service)
+  - [Okteto](#okteto)
 - [Platform as a Service](#platform-as-a-service)
   - [Heroku](#heroku-free-tier-on-paas)
 - [Software as a Service](#software-as-a-service)
-  - [AWS](#aws-free-tier-on-saas)
-    - [Compute](#compute-1)
-    - [Databases](#databases)
-    - [Messaging](#messaging)
-    - [Monitoring](#monitoring)
+  - [Compute](#compute-1)
+  - [Databases](#databases)
+  - [Messaging](#messaging)
+  - [Monitoring](#monitoring)
 
 ## Infrastructure as a Service
 
@@ -30,9 +30,20 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 **[`^        back to top        ^`](#)**
 
+## Kubernetes as a Service
+
+### Kubernetes
+
+| Name | Description | Always Free? | Free Tier Info   | 
+| :------- | :---------: | :------: | ---------: |
+| [Okteto](https://okteto.com/pricing) | Development platform for Kubernetes applications | :white_check_mark: | 2CPU's, 4GB Memory, Sleeps after 24h |
+| [Kubesail](https://kubesail.com/#pricing) | Development platform for Kubernetes | :white_check_mark: | 1CPU, 512MB Memory |
+
+**[`^        back to top        ^`](#)**
+
 ## Platform as a Service
 
-### Heroku: Free Tier on PaaS
+### Heroku
 
 | Name | Description | Always Free? | Free Tier Info   | 
 | :------- | :---------: | :------: | ---------: |
@@ -42,7 +53,7 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 ## Software as a Service
 
-### AWS: Free Tier on SaaS
+AWS: Free Tier on SaaS
 
 AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%2312monthsfree&awsm.page-all-free-tier=1) allows free usage on multiple service for 12 months, and the [Always Free](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1) tier allows free for ever usage on multiple services, be sure to check the detailed info on their free tiers.
 
@@ -52,7 +63,7 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 **[`^        back to top        ^`](#)**
 
-#### Compute
+### Compute
 
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
@@ -60,7 +71,7 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 **[`^        back to top        ^`](#)**
 
-#### Databases
+### Databases
 
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
@@ -69,7 +80,7 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 **[`^        back to top        ^`](#)**
 
-#### Messaging
+### Messaging
 
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
@@ -79,7 +90,7 @@ AWS [Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.addition
 
 **[`^        back to top        ^`](#)**
 
-#### Monitoring
+### Monitoring
 
 | Name | Description | Always Free? | Free Tier Info |
 | :------- | :---------: | :------: | ---------: |
